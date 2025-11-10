@@ -1,0 +1,7 @@
+payment_type,transactions,total_amount,share_tx_pct,share_amount_pct
+cash_on_delivery,8434,4276269.38,16.87,17.0
+upi,8477,4259355.65,16.95,16.93
+debit_card,8355,4234776.21,16.71,16.83
+paypal,8250,4173529.85,16.5,16.59
+credit_card,8310,4150547.15,16.62,16.5
+net_banking,8174,4063511.41,16.35,16.15
