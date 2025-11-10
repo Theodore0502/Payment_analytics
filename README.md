@@ -23,6 +23,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 python -m src.prepare_data --input-csv "data/ecommerce_transactions.csv"
+
 python -m src.plot_channels --summary-csv data/processed/payment_channel_summary.csv
 
 ```
